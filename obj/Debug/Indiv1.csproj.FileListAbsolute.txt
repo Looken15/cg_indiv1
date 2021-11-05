@@ -1,0 +1,10 @@
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\Indiv1\bin\Debug\Indiv1.exe.config
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\Indiv1\bin\Debug\Indiv1.exe
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\Indiv1\bin\Debug\Indiv1.pdb
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\Indiv1\obj\Debug\Indiv1.csprojAssemblyReference.cache
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\Indiv1\obj\Debug\Indiv1.Form1.resources
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\Indiv1\obj\Debug\Indiv1.Properties.Resources.resources
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\Indiv1\obj\Debug\Indiv1.csproj.GenerateResource.cache
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\Indiv1\obj\Debug\Indiv1.csproj.CoreCompileInputs.cache
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\Indiv1\obj\Debug\Indiv1.exe
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\Indiv1\obj\Debug\Indiv1.pdb
